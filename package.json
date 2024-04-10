@@ -1,5 +1,5 @@
 {
-  "name": "@my-username/gene-wallet",
+  "name": "@dflfs432/gene-wallet",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/fdssf3423/gene-wallet#readme",
   "dependencies": {
+    "web3": "^1.0.0",
+    "check-ping-gg": "^1.0.0"
+  },
+  "devDependencies": {
     "web3": "^1.0.0",
     "check-ping-gg": "^1.0.0"
   }
