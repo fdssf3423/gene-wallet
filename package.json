@@ -1,0 +1,23 @@
+{
+  "name": "@my-username/gene-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdssf3423/gene-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdssf3423/gene-wallet/issues"
+  },
+  "homepage": "https://github.com/fdssf3423/gene-wallet#readme",
+  "dependencies": {
+    "web3": "^1.0.0",
+    "check-ping-gg": "^1.0.0"
+  }
+}
